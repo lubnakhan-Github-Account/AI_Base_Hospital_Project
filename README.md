@@ -4,9 +4,9 @@ ___
   * handoffs
   * input output guardrails
   * tools
-  * context management
   * structure output
-    
+  * Exception handling
+
 
 
 
